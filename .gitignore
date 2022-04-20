@@ -1,0 +1,5 @@
+Library/PackageCache
+Library/PackageManager/ProjectCache
+Library/ShaderCache
+Library/StateCache
+Logs/*.log
