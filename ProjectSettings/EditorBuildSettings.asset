@@ -10,3 +10,4 @@ EditorBuildSettings:
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: ab04cf4c1e371fa4fbe4f441bc530a80, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 20131b0065c353f4891d3447cd6bdce4, type: 2}
