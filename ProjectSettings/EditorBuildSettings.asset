@@ -8,4 +8,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: ab04cf4c1e371fa4fbe4f441bc530a80, type: 2}
